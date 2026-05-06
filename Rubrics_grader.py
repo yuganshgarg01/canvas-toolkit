@@ -35,10 +35,10 @@ import sys
 # CONFIGURATION — Fill these in
 # ============================================================
 
-CANVAS_API_TOKEN = "7~th3yzNkAGFkJQETNmNf2CMFGH6nVmQJewcvwc3778kHEJLxvPa6cGAhyTDfAevGc"
+CANVAS_API_TOKEN = "Your canvas API here"
 CANVAS_URL       = "https://canvas.instructure.com"
-COURSE_ID        = "14222223"
-ASSIGNMENT_ID    = "62461773"
+COURSE_ID        = "Your Course ID here"
+ASSIGNMENT_ID    = "Your Assignment ID here"
 
 
 # ============================================================
